@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h2>Tokobk Network</h2>
+  <h1>Tokobk Network</h1>
   
   <p>Tokobk Network is a platform built for developers to test their applications and services. Tokobk offers a lot of useful tools, such as stress tools and different generators to test your system</p>
   
